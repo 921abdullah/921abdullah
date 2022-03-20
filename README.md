@@ -6,11 +6,11 @@
 
 ### Connect with me:
 
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100001032383100)
+[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100001032383100) width="40px" height="40px"
 
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/insta.png)](https://www.linkedin.com/in/abdullah-khan-a06bb1229/)
+[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/insta.png)](https://www.linkedin.com/in/abdullah-khan-a06bb1229/) width="40px" height="40px"
 
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/linkedin.png)](https://www.instagram.com/abdullah.khan42/)
+[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/linkedin.png)](https://www.instagram.com/abdullah.khan42/) width="40px" height="40px"
 
 ### Languages and Tools:
 

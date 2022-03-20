@@ -2,7 +2,7 @@
 ## I'm a Student and Developer!
 - 🌱 Freshman at SEECS, NUST.
 - 🌱 Student of Computer Science 
-- 🌱 I’m currently learning C++ & HTML
+- 🌱 I’m currently learning C++
 - 🌱 Interested & Working on Game development in Python
 - 🌱 Eager to learn new things!
 

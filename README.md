@@ -1,10 +1,10 @@
 ### Hi there! I'm Abdullah! 👋
 ## I'm a Student and Developer!
-- 🌱 Freshman at SEECS, NUST.
-- 🌱 Student of Computer Science 
+- 👨 Freshman at SEECS, NUST.
+- 💻 Student of Computer Science 
 - 🌱 I’m currently learning C++
-- 🌱 Interested & Working on Game development in Python
-- 🌱 Eager to learn new things!
+- 🎮 Interested & Working on Game development in Python
+- 🌅 Eager to learn new things!
 
 ### Connect with me:
 [![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100001032383100) &nbsp;&nbsp;

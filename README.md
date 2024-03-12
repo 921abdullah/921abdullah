@@ -1,8 +1,8 @@
 ### Hi there! I'm Abdullah! 👋
 ## I'm a Student and Developer!
-- 👨 Sophomore at SEECS, NUST.
+- 👨 Junior at SEECS, NUST.
 - 💻 Student of Computer Science 
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning Deep learning.
 - 🎮 Worked on Game development in Python
 - 🌅 Eager to learn new things!
 

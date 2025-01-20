@@ -6,11 +6,9 @@
 - 🌅 Eager to learn new things!
 
 ### Connect with me:
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/facebook.png)](https://www.facebook.com/profile.php?id=100001032383100) &nbsp;&nbsp;
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/insta.png)](https://www.linkedin.com/in/abdullah-khan-a06bb1229/) 
+[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/insta.png)](https://www.linkedin.com/in/abdullah-khan02) 
 &nbsp;&nbsp;
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/linkedin.png)](https://www.instagram.com/abdullah.khan42/) 
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 <a href="#">

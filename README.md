@@ -6,7 +6,7 @@
 - 🌅 Eager to learn new things!
 
 ### Connect with me:
-[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/insta.png)](https://www.linkedin.com/in/abdullah-khan02) 
+[![website](https://github.com/921abdullah/Star-wars-2D-space-shooter/blob/main/logo/linkedin.png)](https://www.linkedin.com/in/abdullah-khan02) 
 &nbsp;&nbsp;
 
 

@@ -1,8 +1,8 @@
 ### Hi there! I'm Abdullah! 👋
 ## I'm a Student and Developer!
-- 👨 Senior at NUST.
+- 👨 CS Grad.
 - 💻 Student of Computer Science 
-- 🌱 I’m currently working on Deep learning.
+- 🌱 Working on AI solutions.
 - 🌅 Eager to learn new things!
 
 ### Connect with me:

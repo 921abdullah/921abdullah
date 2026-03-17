@@ -1,6 +1,6 @@
 ### Hi there! I'm Abdullah! 👋
 ## I'm a Developer!
-- 💻 Student of Computer Science 
+- 💻 Computer Scientist 
 - 🌱 Working on AI solutions.
 - 🌅 Eager to learn new things!
 
